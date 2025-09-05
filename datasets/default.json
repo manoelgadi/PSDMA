@@ -1,0 +1,8 @@
+{
+    "slot1":{
+        "string":"this is a string example",
+        "numbers":[10,20,40,2.6,8],
+        "labels":["label1","label2","label3","label4","label5","label6"]
+    }
+    
+}
