@@ -1,8 +1,3 @@
-Got it 👍 — here’s a **clean, concise, professional README.md** version for your **GitHub repository** in proper Markdown format:
-
----
-
-```markdown
 # PSDMA
 
 A collection of datasets and exercises for learning and teaching **Data Analytics** and **Machine Learning**, created by **Manoel Gadi**.
@@ -90,10 +85,3 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 ---
 
 > “Education is the most powerful weapon which you can use to change the world.” — *Nelson Mandela*
-
-```
-
----
-
-Would you like me to include **GitHub badges** (like license, stars, last commit, etc.) or keep it this minimal style?
-```
